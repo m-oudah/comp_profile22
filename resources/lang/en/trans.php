@@ -109,7 +109,7 @@ details obout company details obout company details obout company details obout 
 ''=>'',
 ''=>'',
 
-'copyright' => 'All Rights Reserved for ........ Company  Ⓒ 2022',
+'copyright' => 'All Rights Reserved for',
 
 ]
 
